@@ -1,0 +1,14 @@
+p {
+	color: red;
+}
+
+#first-p {
+	width: 200px;
+	float: left;
+}
+
+#second-p {
+	width: 250px;
+	float: left;
+	padding-left: 30px;
+}
